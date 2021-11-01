@@ -9,7 +9,7 @@
 * [Search on a column](#search-on-a-column)
 * [Search a row](#search-a-row)
 * [Edit row](#edit-row)
-* [Delete some filed from a row](#delete-some-filed-from-a-row)
+* [Delete some field from a row](#delete-some-field-from-a-row)
 * [Delete a row](#delete-a-row)
 * [Delete table](#delete-table)
 
@@ -79,7 +79,7 @@
         done
 ```
 
-### Delete some filed from a row
+### Delete some field from a row
   Now you can delete every column of a row that you want.
   _Notice:_ with deleteing prime key of a row, program go to fail.
 ###### Syntax :
@@ -93,7 +93,7 @@
 ```
 
 ### Delete a row
-  Delete all filed of a row.
+  Delete all field of a row.
 ###### Syntax :
 ```JSON
 {"action":"open",
