@@ -1,7 +1,7 @@
 # Database_SQL
 * SQL Database model.
 * Trying to code SQL database with JAVA.
-  You can CREATE and DELETE tabales, ADD, EDIT, DELETE rows and columns and SEARCH in a filed on a columns or search a row completly. All by JSON recipes.
+  You can CREATE and DELETE tables, ADD, EDIT, DELETE rows and columns and SEARCH in a field on a column or search a row completely. All by JSON recipes.
 
 ### Table of contents
 * [Createing table](#create-table)
